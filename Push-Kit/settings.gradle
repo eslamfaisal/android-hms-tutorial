@@ -1,0 +1,2 @@
+rootProject.name = "HMS-Push-Kit"
+include ':app'
